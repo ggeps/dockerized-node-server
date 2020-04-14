@@ -1,0 +1,6 @@
+mes-ui/
+mes/
+.docker_temp_*
+*.tar
+*.code-workspace
+node_modules/
